@@ -1,7 +1,7 @@
 # uni-entranceExam-words-database
 This repository is containing Iran's university computer entrance exam English words database.
 
-English words are from exam year 90 to 99 (2011 to 2021)
+English words are from exam year 1390 to 1399 (2011 to 2021)
 
 ## Tables schema 
 
@@ -43,5 +43,14 @@ Notes:
 
 Tables are not well defined because it was extracted from an android app using room database (https://github.com/amindadgar/VocabularyBook).
 
+If you want todo more you can do this list below and easily create a Pull request. 
+## TODOs:
+- Update database every year.
+- Update databse schema for a better structure ( For example add auto_increment in words table or do other staff )
+- Create apps, sites or whatever you want 😃.
+
+##### This database is not For Sale and cannot be sold to anyone!!
+
+
 # مجموعه کلمات انگلیسی کنکور ارشد کامپیوتر
-این دیتابیس شامل تمام کلمات انگلیسی موجود در کنکورارشد کامپیوتر از سال 90 الی 99 می‌باشد
+این دیتابیس شامل تمام کلمات انگلیسی موجود در کنکور ارشد کامپیوتر از سال 90 الی 99 به همراه معانی و فونتیک آنها می‌باشد
